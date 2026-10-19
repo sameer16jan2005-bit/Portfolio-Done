@@ -1,0 +1,25 @@
+<svg width="112" height="116" viewBox="0 0 112 116" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="112" height="116" rx="4" fill="#FFFFFF"/>
+  <rect x="8" y="10" width="96" height="18" rx="2" fill="#F8F6F2"/>
+  <!-- Headline "The signs that something needs to change." -->
+  <text x="56" y="22" font-family="'Inter', -apple-system, sans-serif" font-size="5" font-weight="700" fill="#1E1E1E" text-anchor="middle">The signs that something</text>
+  <text x="56" y="27" font-family="'Inter', -apple-system, sans-serif" font-size="5" font-weight="700" fill="#6B3A2A" text-anchor="middle">needs to change.</text>
+  
+  <!-- Image card Maya -->
+  <rect x="8" y="34" width="46" height="50" rx="3" fill="#2E2421"/>
+  <rect x="58" y="34" width="46" height="50" rx="3" fill="#FAF5ED"/>
+  
+  <!-- Maya info -->
+  <rect x="62" y="40" width="16" height="4" rx="2" fill="#6B3A2A" opacity="0.3"/>
+  <text x="62" y="49" font-family="'Inter', sans-serif" font-size="4.5" font-weight="700" fill="#2E2421">Hi, I'm Maya.</text>
+  <rect x="62" y="53" width="38" height="2" fill="#888888" opacity="0.4"/>
+  <rect x="62" y="57" width="34" height="2" fill="#888888" opacity="0.4"/>
+  <rect x="62" y="61" width="36" height="2" fill="#888888" opacity="0.4"/>
+  <rect x="62" y="65" width="28" height="2" fill="#888888" opacity="0.4"/>
+  
+  <!-- Mini cards at bottom -->
+  <rect x="8" y="90" width="22" height="20" rx="2" fill="#D6E4EE"/>
+  <rect x="33" y="90" width="22" height="20" rx="2" fill="#DFEBD8"/>
+  <rect x="58" y="90" width="22" height="20" rx="2" fill="#E8DCD1"/>
+  <rect x="83" y="90" width="21" height="20" rx="2" fill="#F4E8D7"/>
+</svg>
